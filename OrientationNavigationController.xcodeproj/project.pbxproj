@@ -13,6 +13,7 @@
 		049933FC2B4BC57E00C835D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 049933FA2B4BC57E00C835D4 /* Main.storyboard */; };
 		049933FE2B4BC58000C835D4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 049933FD2B4BC58000C835D4 /* Assets.xcassets */; };
 		049934012B4BC58000C835D4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 049933FF2B4BC58000C835D4 /* LaunchScreen.storyboard */; };
+		049934092B4BD1B300C835D4 /* milupic.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 049934082B4BD1B300C835D4 /* milupic.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		049933FD2B4BC58000C835D4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		049934002B4BC58000C835D4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		049934022B4BC58000C835D4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		049934082B4BD1B300C835D4 /* milupic.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = milupic.jpeg; path = ../../../../Downloads/milupic.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				049933F82B4BC57E00C835D4 /* ViewController.swift */,
 				049933FA2B4BC57E00C835D4 /* Main.storyboard */,
 				049933FD2B4BC58000C835D4 /* Assets.xcassets */,
+				049934082B4BD1B300C835D4 /* milupic.jpeg */,
 				049933FF2B4BC58000C835D4 /* LaunchScreen.storyboard */,
 				049934022B4BC58000C835D4 /* Info.plist */,
 			);
@@ -128,6 +131,7 @@
 				049934012B4BC58000C835D4 /* LaunchScreen.storyboard in Resources */,
 				049933FE2B4BC58000C835D4 /* Assets.xcassets in Resources */,
 				049933FC2B4BC57E00C835D4 /* Main.storyboard in Resources */,
+				049934092B4BD1B300C835D4 /* milupic.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
